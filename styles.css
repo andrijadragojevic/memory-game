@@ -1,7 +1,11 @@
-.col-2 {
-    aspect-ratio: 1;
-}
-
 #main-container {
     width: fit-content;
+}
+
+.cards {
+    width: 100px;
+}
+
+.col-1 {
+    margin-left: 2.5rem !important;
 }
